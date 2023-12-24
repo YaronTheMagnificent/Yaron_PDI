@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>x_672025_0_resident_debt_script_1</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[template.print(current.resident_debt.getCurrencyDisplayValue());]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>yaron.rabinovich</sys_created_by>
+        <sys_created_on>2023-11-27 08:24:28</sys_created_on>
+        <sys_id>e56045cd97f671104ce032f6f053af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_672025_0_resident_debt_script_1</sys_name>
+        <sys_package display_value="מצב חוב תושב" source="x_672025_0">abce807c977231104ce032f6f053afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="מצב חוב תושב">abce807c977231104ce032f6f053afdc</sys_scope>
+        <sys_update_name>sys_script_email_e56045cd97f671104ce032f6f053af2e</sys_update_name>
+        <sys_updated_by>yaron.rabinovich</sys_updated_by>
+        <sys_updated_on>2023-11-27 08:24:28</sys_updated_on>
+    </sys_script_email>
+</record_update>

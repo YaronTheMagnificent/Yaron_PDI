@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>yaron.rabinovich</sys_created_by>
+        <sys_created_on>2023-11-26 10:12:20</sys_created_on>
+        <sys_id>bb7f40bc977231104ce032f6f053af0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_672025_0_resident_debt.x_672025_0.debt_user</sys_name>
+        <sys_package display_value="מצב חוב תושב" source="x_672025_0">abce807c977231104ce032f6f053afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="מצב חוב תושב">abce807c977231104ce032f6f053afdc</sys_scope>
+        <sys_security_acl display_value="x_672025_0_resident_debt">377f00bc977231104ce032f6f053afc9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bb7f40bc977231104ce032f6f053af0c</sys_update_name>
+        <sys_updated_by>yaron.rabinovich</sys_updated_by>
+        <sys_updated_on>2023-11-26 10:12:20</sys_updated_on>
+        <sys_user_role display_value="x_672025_0.debt_user" name="x_672025_0.debt_user">abce807c977231104ce032f6f053afff</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

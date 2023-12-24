@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="da7fcc7c977231104ce032f6f053af7a" extends="task" label="Resident Debt" max_length="40" name="x_672025_0_resident_debt" type="collection">
+        <element label="Has a refund made?" max_length="255" name="has_a_refund_made" type="boolean"/>
+        <element label="Resident" mandatory="true" max_length="32" name="resident" reference="sys_user" type="reference"/>
+        <element label="Resident Debt" mandatory="true" max_length="20" name="resident_debt" type="currency"/>
+    </element>
+</database>
